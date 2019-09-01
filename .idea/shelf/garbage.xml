@@ -1,0 +1,14 @@
+<changelist name="garbage" date="1567295289571" recycled="false">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/garbage/shelved.patch" />
+  <option name="DESCRIPTION" value="garbage" />
+  <binary>
+    <option name="BEFORE_PATH" value=".idea/caches/build_file_checksums.ser" />
+    <option name="AFTER_PATH" value=".idea/caches/build_file_checksums.ser" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/garbage/build_file_checksums.ser" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".idea/caches/gradle_models.ser" />
+    <option name="AFTER_PATH" value=".idea/caches/gradle_models.ser" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/garbage/gradle_models.ser" />
+  </binary>
+</changelist>
